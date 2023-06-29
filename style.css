@@ -1,0 +1,19 @@
+.heading {
+    width: 80%;
+    font-size: 20px;
+}
+
+body {
+    background-color: rgb(95, 95, 108);
+    color: white;
+}
+
+.NameOfObjects {
+    color: rgb(255, 255, 0);
+}
+
+#web_camera {
+    border: 2px solid;
+    height: 350px;
+    width: 350px;
+}
